@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# 1.1 Introduction to Data Science and Databases
 
 ## Dependencies
 
@@ -14,7 +14,6 @@ Learners will understand:
 
 Learners will be able to:
 - Insert the skillset to be acquired
-
 
 ## Lesson Plan
 
