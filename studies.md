@@ -2,16 +2,18 @@
 
 ### Brief
 
-Technical knowledge is vast. Timebox yourself for 3 hours to work on the following content.
+Read up on markdown syntax and familiarise yourself with it.
 
-### Video 
+Familarity with and ability to code in Python programming language is a prerequisite for this program. Here are some materials to refresh your memory or brush up your Python coding skills.
 
-- add links
+Refer to [lesson](lesson.md#prerequisite-knowledge-for-this-program) for the concepts to familiarise yourself with.
 
 ### Readings
 
-- add links
+- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
-### Helpful Links (References)
+### Python Tutorials
 
-- add links
+- [W3 Schools- Python](https://www.w3schools.com/python/default.asp)
+- [OpenTechSchool- Python](http://opentechschool.github.io/python-beginners/en/index.html)

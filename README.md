@@ -1,8 +1,9 @@
-# 1.1 Introduction to Data Science and Databases
+# 1.1 Introduction to Data Science
 
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
+
 - [Self Studies](./studies.md)
 - [Lesson](./lesson.md)
 - [Assignment](./assignment.md)
@@ -10,27 +11,45 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+
+- Data science lifecycle
+- Data functions and roles
+- What is a database
+- Data science toolbox
+- Python modules and environments
+- Git and github workflow
 
 Learners will be able to:
-- Insert the skillset to be acquired
+
+- Install all the necessary development tools for this program
+  - Git
+  - Miniconda
+  - VSCode
+- Install VSCode plugins
+  - Python extension
+  - Jupyter extension
+  - SQLTools
+- Manage conda environments
+  - Create/activate/deactivate/remove environment
+  - Install/uninstall packages
+  - Freeze dependencies
+- Perform git and github workflow
+  - Create/clone repository
+  - Add/commit/push/pull changes
 
 ## Lesson Plan
 
-|Duration|What|How or Why|
-|--------|-----|-------|
-|- 5mins |Start zoom session|So that students can join early and start class on time|
-|10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|30 mins|Conceptual Knowledge| Instructors brief students on the subject matter conceptually before diving into hands on. This section can be shorter but not longer. Use video clips for explanation if necessary.|
-|20 mins|Code Along| Practical hands on|
-||**1 HR MARK**|
-|5 mins|Break|Break|
-|40 mins|Code Along| Practical hands on|
-|5 mins|Buffer|In case of overrun|
-|5 mins|Break||
-|5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
-||**2 HR MARK**|
-|50 mins|Learners self attempt on assignments|
-|10 mins|Instructors assist learners to push changes to remote repository.|
-||**END CLASS 3 HR MARK**|
-
+| Duration | What                        | How or Why                                                                      |
+| -------- | --------------------------- | ------------------------------------------------------------------------------- |
+| - 5mins  | Start zoom session          | So that learners can join early and start class on time.                        |
+| 30 mins  | Introduction / Ice-breaking | Self-introduction and ice-breaking game.                                        |
+| 30 mins  | Concept                     | Part 1: Introduction to data science and database.                              |
+|          | **1 HR MARK**               |
+| 30 mins  | Concept                     | Part 2: Introduction to data science toolbox.                                   |
+| 10 mins  | Break                       |                                                                                 |
+| 20 mins  | Setup                       | Set up VSCode, extensions, python, git and github.                              |
+|          | **2 HR MARK**               |
+| 20 mins  | Concept                     | Part 3: Python environments and git + github workflow.                          |
+| 30 mins  | Code-along                  | Demonstrate and guide learners on python code execution, git + github workflow. |
+| 10 mins  | Briefing / Q&A              | Brief on self studies, assignment and Q&A.                                      |
+|          | **END CLASS 3 HR MARK**     |
