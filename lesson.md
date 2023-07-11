@@ -1,3 +1,5 @@
+# Lesson
+
 ## Brief
 
 ### Preparation
@@ -124,6 +126,20 @@ conda env export > environment.yml
 ```
 
 > Walk through the creation of an environment for this module
+
+#### Recreate conda environment from environment.yml
+
+```bash
+conda env create -f environment.yml
+```
+
+#### Running python scripts in a conda environment
+
+After activating the environment, run:
+
+```bash
+python <script_name.py>
+```
 
 ### Git
 
