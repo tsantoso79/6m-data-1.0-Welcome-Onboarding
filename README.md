@@ -41,17 +41,17 @@ Learners will be able to:
 
 ## Lesson Plan
 
-| Duration | What                        | How or Why                                                                      |
-| -------- | --------------------------- | ------------------------------------------------------------------------------- |
-| - 5mins  | Start zoom session          | So that learners can join early and start class on time.                        |
-| 30 mins  | Introduction / Ice-breaking | Self-introduction and ice-breaking game.                                        |
-| 30 mins  | Concept                     | Part 1: Introduction to data science and database.                              |
-|          | **1 HR MARK**               |
-| 30 mins  | Concept                     | Part 2: Introduction to data science toolbox.                                   |
-| 10 mins  | Break                       |                                                                                 |
-| 20 mins  | Setup                       | Set up VSCode, extensions, python, git and github.                              |
-|          | **2 HR MARK**               |
-| 20 mins  | Concept                     | Part 3: Python environments and git + github workflow.                          |
-| 30 mins  | Code-along                  | Demonstrate and guide learners on python code execution, git + github workflow. |
-| 10 mins  | Briefing / Q&A              | Brief on self studies, assignment and Q&A.                                      |
-|          | **END CLASS 3 HR MARK**     |
+| Duration | What                    | How or Why                                                                      |
+| -------- | ----------------------- | ------------------------------------------------------------------------------- |
+| - 5mins  | Start zoom session      | So that learners can join early and start class on time.                        |
+| 30 mins  | Activity                | Recap on self-study and prework materials.                                      |
+| 30 mins  | Concept                 | Part 1: Introduction to data science and database.                              |
+|          | **1 HR MARK**           |
+| 30 mins  | Concept                 | Part 2: Introduction to data science toolbox.                                   |
+| 10 mins  | Break                   |                                                                                 |
+| 20 mins  | Setup                   | Set up VSCode, extensions, python, git and github.                              |
+|          | **2 HR MARK**           |
+| 20 mins  | Concept                 | Part 3: Python environments and git + github workflow.                          |
+| 30 mins  | Code-along              | Demonstrate and guide learners on python code execution, git + github workflow. |
+| 10 mins  | Briefing / Q&A          | Brief on self studies, assignment and Q&A.                                      |
+|          | **END CLASS 3 HR MARK** |
