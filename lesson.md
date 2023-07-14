@@ -36,6 +36,8 @@ Conceptual knowledge, refer to slides.
   - Git is a version control system that we will be using throughout this program, to manage our codes
 - Download and install miniconda [here](https://docs.conda.io/en/latest/miniconda.html)
   - Conda is a package and environment manager that we will be using throughout this program, to manage our Python packages and environments
+- Download and install DBeaver Community [here](https://dbeaver.io/download/)
+  - DBeaver is a SQL client that we will be using throughout this program, to connect to databases and write SQL codes
 - Download and install vscode [here](https://code.visualstudio.com/download)
   - VSCode is an IDE (Integrated Development Environment) that we will be using throughout this program, to write Python and SQL codes
 
@@ -45,7 +47,6 @@ Go to the `Extensions` tab, search for the following extensions in the marketpla
 
 - Python
 - Jupyter
-- SQLTools
 
 ---
 

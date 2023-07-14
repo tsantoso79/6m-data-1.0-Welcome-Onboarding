@@ -26,11 +26,11 @@ Learners will be able to:
 - Install all the necessary development tools for this program
   - Git
   - Miniconda
+  - DBeaver
   - VSCode
 - Install VSCode plugins
   - Python extension
   - Jupyter extension
-  - SQLTools
 - Manage conda environments
   - Create/activate/deactivate/remove environment
   - Install/uninstall packages
