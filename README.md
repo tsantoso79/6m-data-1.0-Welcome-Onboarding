@@ -53,5 +53,5 @@ Learners will be able to:
 |          | **2 HR MARK**           |
 | 20 mins  | Concept                 | Part 3: Python environments and git + github workflow.                          |
 | 30 mins  | Code-along              | Demonstrate and guide learners on python code execution, git + github workflow. |
-| 10 mins  | Briefing / Q&A          | Brief on self studies, assignment and Q&A.                                      |
+| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                                  |
 |          | **END CLASS 3 HR MARK** |
