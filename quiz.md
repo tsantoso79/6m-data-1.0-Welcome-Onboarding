@@ -61,3 +61,17 @@
   ```bash
   git access
   ```
+
+### Q4: What is Github?
+
+- A. A programming language
+- B. A cloud-based hosting service for git repositories
+- C. A text editor
+- D. A version of Git
+
+### Q5: What does the git clone <repo_url> command do?
+
+- A. It pushes changes to a remote repository
+- B. It creates a new branch in the local repository
+- C. It clones a remote repository to your local machine
+- D. It pulls changes from a remote repository

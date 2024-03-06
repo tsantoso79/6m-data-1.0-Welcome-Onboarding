@@ -6,7 +6,7 @@
 
 #### Prerequisite knowledge for this program
 
-Familarity with Python programming language, at a basic to intermediate level. At least an understanding of and ability to code the following concepts:
+Familarity with Python programming language, at an intermediate level. At least an understanding of and ability to code the following concepts:
 
 - Variables
 - Data types
