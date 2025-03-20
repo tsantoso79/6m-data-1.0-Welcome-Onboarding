@@ -2,9 +2,9 @@
 
 ## Brief
 
-### Preparation
+## Preparation
 
-#### Prerequisite knowledge for this program
+### Prerequisite knowledge for this program
 
 Familarity with Python programming language, at an intermediate level. At least an understanding of and ability to code the following concepts:
 
@@ -30,7 +30,7 @@ Conceptual knowledge, refer to slides.
 
 ## Part 2 - Introduction to data science toolbox
 
-Welcome to our course! To get started, we'll need to set up your environment with essential software applications that will allow you to run models and execute Python and SQL code.
+To get started, we'll need to set up your environment with essential software applications that will allow you to run models and execute Python and SQL code.
 
 One key aspect of this course is learning to use the Command Line Interface (CLI). The CLI is a powerful tool that data scientists and engineers use to interact with their computers and execute commands efficiently. Instead of clicking through a graphical user interface (GUI), you'll be typing commands into a text terminal application.
 
@@ -44,9 +44,9 @@ If you're new to the CLI, don't worry! While it might seem intimidating at first
 
 To help you get started with the CLI, here are some excellent online resources and tutorials:
 
-- [Terminal Tutor](https://www.terminaltutor.com/tutorial-contents) - For beginners who has never seen a CLI prompt
 - [Ubuntu CLI Tutorial](https://ubuntu.com/tutorials/command-line-for-beginners) - Linux command line for beginners from Ubuntu
-- [Basic Linux Commands (video)](https://www.youtube.com/watch?v=7fs1i7TAMck) - One of the many, many Linux command tutorials you can find on YouTube
+- [Learning the Linux Shell](https://linuxcommand.org/lc3_learning_the_shell.php) - Part 1 of a comprehensive guide to the world of Linux.
+- [Basic Linux Commands (video)](https://www.youtube.com/watch?v=7fs1i7TAMck) - One of the many, many Linux CLI tutorials you can find on YouTube
 
 ### Please refer to the [installation](./installation.md) file to install the required applications for this module.
 
