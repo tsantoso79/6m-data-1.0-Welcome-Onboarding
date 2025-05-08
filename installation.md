@@ -74,5 +74,5 @@ We will be using DBeaver SQL client throughout this course to connect to databas
 
 Download and install DBeaver Community [here](https://dbeaver.io/download/).
 
-Windows WSL users are able to run the regular Windows version of DBeaver and access the database files on your files on WSL.
+Windows WSL users are able to run the regular Windows version of DBeaver and access the database files stored in the WSL file system.
 
