@@ -25,7 +25,7 @@ You must be running Windows 11 or 10 version 2004 and higher.
 
 Follow the instructions [here](https://learn.microsoft.com/en-us/windows/wsl/install) to install Ubuntu on WSL.
 
-You can access your WSL files using regular Windows applications, such as File Manager. While you in your Linux directory, type: 
+You can access your WSL files using regular Windows applications, such as File Explorer. While you in your Linux directory, type: 
 
 `explorer.exe .`
 
