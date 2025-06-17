@@ -2,7 +2,7 @@
 
 ## Hardware Requirements
 - Desktop/laptop computer running the latest version of macOS/Linux/Windows operating system (OS)
-- Recommended 8GB onboard memory (RAM)
+- Recommended 16GB onboard memory (RAM) 
 - Recommended 50GB available hard disk storage space (HDD/SSD)
 - Webcam and microphone for online Zoom sessions
 
