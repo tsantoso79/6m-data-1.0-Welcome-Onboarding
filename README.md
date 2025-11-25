@@ -1,58 +1,36 @@
-# 1.1 Introduction to Data Science
+# **Class 1: Welcome & Onboarding**
 
-## Dependencies
+**Theme:** Learning to Learn in the AI Era
 
-Refer to the following markdown file for the respective sections of the class:
+## **📅 Agenda**
 
-- [First-time Installation](./installation.md)
-- [Self Studies](./studies.md)
-- [Lesson](./lesson.md)
-- [Assignment](./assignment.md)
-- [Quiz](./quiz.md)
-- [Reference](./reference.md)
+| Time | Activity | Description |
+| ---  | ---      | ---         |
+| 0:00 \- 0:45 | 🧭 The Roadmap | Introduction to the course, the "Flipped Classroom" philosophy, and your AI tutor (NotebookLM). |  
+| 0:45 \- 1:30 | 🛠️ Workshop | Environment Setup: Getting your Google Colab and LMS access ready. |  
+| 1:30 \- 2:00 | 🤖 Activity | "Prompt Engineering 101": Learning how to ask the right questions. |  
+| 2:00 \- 3:00 | 🧊 Icebreaker | Data Collection: We will generate our own dataset to analyze later\! |
 
-## Lesson Objectives
 
-Learners will understand:
 
-- Data science lifecycle
-- Data functions and roles
-- What is a database
-- Data science toolbox
-- Python modules and environments
-- Git and github workflow
+## **🎯 Learning Outcomes**
 
-Learners will be able to:
+By the end of this session, you will be able to:
 
-- Install all the necessary development tools for this program
-  - Git
-  - Miniconda
-  - DBeaver
-  - VSCode
-- Install VSCode plugins
-  - Python extension
-  - Jupyter extension
-- Manage conda environments
-  - Create/activate/deactivate/remove environment
-  - Install/uninstall packages
-  - Freeze dependencies
-- Perform git and github workflow
-  - Create/clone repository
-  - Add/commit/push/pull changes
+1. Navigate the course structure and understand the "1 Million Row" capstone goal.  
+2. Launch and run code in a **Google Colab** notebook.  
+3. Use **Google NotebookLM** to summarize technical documents and generate self-assessment quizzes.
 
-## Lesson Plan
+## **📂 Resources & Links**
 
-| Duration | What                    | How or Why                                                                      |
-| -------- | ----------------------- | ------------------------------------------------------------------------------- |
-| - 5mins  | Start zoom session      | So that learners can join early and start class on time.                        |
-| 30 mins  | Activity                | Recap on self-study and prework materials.                                      |
-| 30 mins  | Concept                 | Part 1: Introduction to data science and database.                              |
-|          | **1 HR MARK**           |
-| 30 mins  | Concept                 | Part 2: Introduction to data science toolbox.                                   |
-| 10 mins  | Break                   |                                                                                 |
-| 20 mins  | Setup                   | Set up VSCode, extensions, python, git and github.                              |
-|          | **2 HR MARK**           |
-| 20 mins  | Concept                 | Part 3: Python environments and git + github workflow.                          |
-| 30 mins  | Code-along              | Demonstrate and guide learners on python code execution, git + github workflow. |
-| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                                  |
-|          | **END CLASS 3 HR MARK** |
+* [Course Syllabus](https://www.google.com/search?q=../Syllabus.md) *(Link to main syllabus)*  
+* [Google NotebookLM](https://notebooklm.google.com/)  
+* [Google Colab](https://colab.research.google.com/)
+
+## **🧊 Icebreaker Survey**
+
+*Please complete this survey before the end of the class. We will be using this raw data (anonymized) for our Data Cleaning workshop in Class 11\.*
+
+$$ \*\*-\> Link to Google Form / Survey Tool \<-\*\* $$
+
+(Instructor Note: Insert link here. Questions should include: Years of Experience, Favorite Coding Language, Laptop OS, Coffee vs Tea, etc.)
