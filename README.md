@@ -23,7 +23,7 @@ By the end of this session, you will be able to:
 
 ## **📂 Resources & Links**
 
-* [Course Syllabus](https://www.google.com/search?q=../Syllabus.md) *(Link to main syllabus)*  
+* [Course Syllabus](https://github.com/su-ntu-ctp/6m-data-1.0-Welcome-Onboarding/blob/main/syllabus.md)
 * [Google NotebookLM](https://notebooklm.google.com/)  
 * [Google Colab](https://colab.research.google.com/)
 
