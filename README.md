@@ -27,11 +27,3 @@ By the end of this session, you will be able to:
 * [Course Syllabus](https://github.com/su-ntu-ctp/6m-data-1.0-Welcome-Onboarding/blob/main/syllabus.md)
 * [Google NotebookLM](https://notebooklm.google.com/)  
 * [Google Colab](https://colab.research.google.com/)
-
-## **🧊 Icebreaker Survey**
-
-*Please complete this survey before the end of the class. We will be using this raw data (anonymized) for our Data Cleaning workshop in Class 11\.*
-
-$$ \*\*-\> Link to Google Form / Survey Tool \<-\*\* $$
-
-(Instructor Note: Insert link here. Questions should include: Years of Experience, Favorite Coding Language, Laptop OS, Coffee vs Tea, etc.)
