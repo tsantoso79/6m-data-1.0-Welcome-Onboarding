@@ -58,7 +58,8 @@
 
 ### **🧩 Visual Dependency Tree**
 
-```
+
+```mermaid
 
 graph TD
     Goal[🏆 Final Goal: 1 Million Row Dashboard]
