@@ -62,6 +62,10 @@
 
 graph TD
     Goal[🏆 Final Goal: 1 Million Row Dashboard]
+
+    subgraph Foundation [Phase 1: Foundation]
+    C1[Onboarding: Colab Setup] --> C2[DS Intro: Lifecycle]
+    end
     
     subgraph Storage [Phase 2: SQL Storage]
     C3[DB Intro] --> C4[DDL: Make Tables]
@@ -82,6 +86,7 @@ graph TD
     C13 --> C14[Viz: Build Charts]
     end
 
+    Foundation --> |Tools & Strategy| Storage
     Storage --> |Raw Data| Processing
     Processing --> |Cleaned Data| Analysis
     Analysis --> |Insights| Presentation
