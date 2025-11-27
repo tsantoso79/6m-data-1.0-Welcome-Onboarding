@@ -23,6 +23,7 @@ By the end of this session, you will be able to:
 
 ## **📂 Resources & Links**
 
+* [Interactive Roadmap](https://su-ntu-ctp.github.io/6m-data-1.0-Welcome-Onboarding/)
 * [Course Roadmap](https://github.com/su-ntu-ctp/6m-data-1.0-Welcome-Onboarding/blob/main/Course_roadmap.md)
 * [Course Syllabus](https://github.com/su-ntu-ctp/6m-data-1.0-Welcome-Onboarding/blob/main/syllabus.md)
 * [Google NotebookLM](https://notebooklm.google.com/)  
