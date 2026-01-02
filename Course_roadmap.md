@@ -12,7 +12,7 @@
 
 | Class | Title | 🎯 Contribution to Final Project |
 | :---- | :---- | :---- |
-| **01** | **Onboarding** | Sets up your **Google NotebookLM** & Discord to kick start your learning journey|
+| **01** | **Onboarding** | Sets up your **Google NotebookLM & Discord** to kick start your learning journey|
 | **02** | **Intro to Data Science** | teaches you the **Data Lifecycle** so you know the steps to follow for the project (Collection \-\> Cleaning \-\> Viz). |
 
 ### **🔵 Phase 2: The Warehouse (Getting the Data)**
