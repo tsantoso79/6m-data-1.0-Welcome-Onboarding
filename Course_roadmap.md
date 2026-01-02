@@ -23,7 +23,7 @@
 | :---- | :---- | :---- |
 | **03** | **Intro to Database** | Helps you understand the **schema** (map) of the massive dataset you will be given. |
 | **04** | **SQL Basic (DDL)** | Teaches you how to **create the tables** to store the 1 million rows. |
-| **05** | **SQL Basic (DML)** | Teaches you how to **fix errors** in specific rows of the raw data. |
+| **05** | **SQL Basic (DML)** | Teaches you how to **manipulate data** in specific rows of the raw data. |
 | **06** | **GitHub Coaching** | Ensures you can **save your versions** so you don't lose your work if your computer crashes. |
 | **07** | **SQL Advanced** | Crucial\! You will use **JOINS** to connect the "Customer" table to the "Transactions" table to find spending habits. |
 
