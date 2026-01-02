@@ -12,7 +12,7 @@
 
 | Class | Title | 🎯 Contribution to Final Project |
 | :---- | :---- | :---- |
-| **01** | **Onboarding** | Sets up your **Google Colab** environment where the final code will run. |
+| **01** | **Onboarding** | Sets up your **Google NotebookLM** & Discord to kick start your learning journey|
 | **02** | **Intro to Data Science** | teaches you the **Data Lifecycle** so you know the steps to follow for the project (Collection \-\> Cleaning \-\> Viz). |
 
 ### **🔵 Phase 2: The Warehouse (Getting the Data)**
@@ -64,7 +64,7 @@ graph TD
     Goal[🏆 Final Goal: 1 Million Row Dashboard]
 
     subgraph Foundation [Phase 1: Foundation]
-    C1[Onboarding: Colab Setup] --> C2[DS Intro: Lifecycle]
+    C1[Onboarding: Get Your AI Buddy and Community Ready] --> C2[DS Intro: Lifecycle]
     end
     
     subgraph Storage [Phase 2: SQL Storage]
