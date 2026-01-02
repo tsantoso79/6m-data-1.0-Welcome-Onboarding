@@ -1,0 +1,3 @@
+![Prompt Guide 101](./prompt_guide.png)
+
+Source: [prompting-guide-101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
