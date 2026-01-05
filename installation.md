@@ -12,7 +12,7 @@
 - Visual Studio Code (VSCode) or any source code editor
 - Git Command-Line Interface (CLI)
 - Conda/Miniconda
-- DBeaver database viewer
+- DbGate database manager
 
 ## WSL for Windows
 
