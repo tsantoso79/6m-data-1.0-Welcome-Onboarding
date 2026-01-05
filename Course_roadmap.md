@@ -24,7 +24,7 @@
 | **03** | **Intro to Database** | Helps you understand the **schema** (map) of the massive dataset you will be given. |
 | **04** | **SQL Basic (DDL)** | Teaches you how to **create the tables** to store the 1 million rows. |
 | **05** | **SQL Basic (DML)** | Teaches you how to **manipulate data** in specific rows of the raw data. |
-| **06** | **GitHub Coaching** | Ensures you can **save your versions** so you don't lose your work if your computer crashes. |
+| **06** | **Coaching 1: GitHub & VS Code** | Ensures you can **save your versions** so you don't lose your work if your computer crashes. |
 | **07** | **SQL Advanced** | Crucial\! You will use **JOINS** to connect the "Customer" table to the "Transactions" table to find spending habits. |
 
 ### **🟠 Phase 3: The Engine (Crunching the Numbers)**
@@ -34,7 +34,7 @@
 | Class | Title | 🎯 Contribution to Final Project |
 | :---- | :---- | :---- |
 | **08** | **Intro to Numpy** | Teaches you **vectorization**—the only way to calculate stats on 1 million rows without crashing your browser. |
-| **09** | **Coaching (Logic)** | Bridges the gap between "Querying" (SQL) and "Programming" (Python). |
+| **09** | **Coaching 2** | Bridges the gap between "Querying" (SQL) and "Programming" (Python). |
 | **10** | **Intro to Pandas** | The **core tool**. You will use DataFrames to hold the data in memory and perform complex filtering (e.g., "Show me top 10% of users"). |
 
 ### **🟣 Phase 4: The Detective Work (Finding Insights)**
@@ -44,7 +44,7 @@
 | Class | Title | 🎯 Contribution to Final Project |
 | :---- | :---- | :---- |
 | **11** | **EDA Basic** | **Cleaning.** Real data is dirty. You will use this to remove nulls and duplicates from the 1 million rows. |
-| **12** | **Coaching (Dirty Data)** | A practice run to ensure your cleaning scripts are robust enough for the final dataset. |
+| **12** | **Coaching 2** | A practice run to ensure your cleaning scripts are robust enough for the final dataset. |
 | **13** | **EDA Advanced** | **Feature Engineering.** You will create *new* metrics (e.g., converting "Date of Birth" into "Age Group") to make your dashboard more useful. |
 
 ### **🔴 Phase 5: The Story (The Dashboard)**
