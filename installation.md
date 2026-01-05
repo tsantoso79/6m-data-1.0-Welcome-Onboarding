@@ -131,8 +131,7 @@ Please note that Anaconda has stopped building packages for Intel Mac. Their off
 
 > As of August 15, 2025, Anaconda has stopped building packages for Intel Mac computers (osx-64). Existing Intel (MacOSX-x86_64) installers are still available at https://repo.anaconda.com/miniconda/ and the last Miniconda installer release for Intel Mac computers will be 25.7.x. For more information, see [our blog](https://www.anaconda.com/blog/intel-mac-package-support-deprecation) on the end of Intel mac support.
 
-For Intel Mac users, you can still download miniconda at https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh. However, please make plan to migrate to Mac with Apple chips.
-
+Therefore, laptop with Intel Mac will not be supported. Please consult instructors regarding alternatives. 
 
 ### Download and install miniconda [here](https://www.anaconda.com/docs/getting-started/miniconda/main)
 
