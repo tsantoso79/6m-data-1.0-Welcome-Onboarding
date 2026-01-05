@@ -36,7 +36,7 @@ You can access your WSL files using regular Windows applications, such as File E
 
 Read this [tutorial](https://learn.microsoft.com/en-us/windows/wsl/filesystems) to find out how it works.
 
-Please refer to [Reference - WSL on Windows](reference_old.md#wsl-on-windows) for more learning resource on WSL.
+Please refer to [Reference - WSL on Windows](reference.md#wsl-on-windows) for more learning resource on WSL.
 
 ## Visual Studio Code (VSCode)
 
@@ -64,7 +64,7 @@ Go to the `Extensions` tab, search for the following extensions in the marketpla
 
 
 ### Additional Learning Resource
-Please refer to [Reference - VSCode](reference_old.md#vscode) for more learning resource on VSCode.
+Please refer to [Reference - VSCode](reference.md#vscode) for more learning resource on VSCode.
 
 ## Git vs GitHub
 
@@ -119,7 +119,7 @@ Please checkout the video belong which applies for both Mac and Windows user.
 ### Additional Learning Resource
 Windows WSL users may read this official tutorial [Get Started using Git on WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-git) to understand more about Git in WSL. *You may ignore the Azure setup.*
 
-Please refer to [Reference - Git and Github](reference_old.md#git-and-github) for more learning resource on Git and Github.
+Please refer to [Reference - Git and Github](reference.md#git-and-github) for more learning resource on Git and Github.
 
 ## Conda/Miniconda
 
@@ -146,7 +146,7 @@ To verify this, your conda command prompt should show `(base) $`
 [Video: Install Miniconda on WSL for Windows User](https://drive.google.com/file/d/1M6ioKVQ47084fMlXO03U2Aj2z910IFBR/view?usp=drive_link)
 
 ### Additional Learning Resource
-Please refer to [Reference - Conda or Miniconda](reference_old.md#conda-or-miniconda) for more learning resource on Conda/Miniconda.
+Please refer to [Reference - Conda or Miniconda](reference.md#conda-or-miniconda) for more learning resource on Conda/Miniconda.
 
 ## DuckDB Browser: DBGate
 
@@ -157,7 +157,7 @@ Download and install DbGate Community version [here](https://www.dbgate.io/downl
 Alternatively, you can use another Duckdb browser called Dbeaver, you can download and install DBeaver Community [here](https://dbeaver.io/download/)
 
 ## Verification of Installation (Mac and Windows Users)
-- To confirm if your github installation is successful, please refer to [Lesson - Cloning a Lesson](lesson_old.md#cloning-a-lesson) and try to clone this lesson to your PC. If you manage to clone your repository into your PC, we can confirm the git configuration is good.
+- To confirm if your github installation is successful, please refer to [Lesson - Cloning a Lesson](lesson.md#cloning-a-lesson) and try to clone this lesson to your PC. If you manage to clone your repository into your PC, we can confirm the git configuration is good.
 
 - Please refer to the following exercise [here](guides/run_conda_python.md) to see if you can create a conda environment and run a python file to create a test database. Please proceed to next step if you manage to run the command without errors.
 
