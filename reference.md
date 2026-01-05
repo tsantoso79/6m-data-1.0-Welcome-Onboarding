@@ -7,10 +7,16 @@
   - https://docs.python.org/3/reference
 - W3 Schools Python Tutorials
   - https://www.w3schools.com/python/default.asp
+- OpenTechSchool- Python
+  - http://opentechschool.github.io/python-beginners/en/index.html
 - Conda Cheatsheet
   - https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html
 - Git Cheatsheet
   - https://education.github.com/git-cheat-sheet-education.pdf
+- Markdown Syntax
+  - https://www.markdownguide.org/basic-syntax/
+- Markdown Cheatsheet
+  - https://www.markdownguide.org/cheat-sheet/
 
 
 ## **VSCode**
