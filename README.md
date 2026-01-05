@@ -1,6 +1,6 @@
 # **Class 1: Welcome & Onboarding**
 
-**Theme:** Learning to Learn in the AI Era
+# Learning to Learn in AI Era
 
 ## **Pre-Class Activity**
 
