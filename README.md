@@ -2,6 +2,10 @@
 
 **Theme:** Learning to Learn in the AI Era
 
+## **Pre-Class Activity**
+
+* Complete [First Time Software Installation](./installation.md)
+
 ## **📅 Agenda**
 
 | Time | Activity | Description |
