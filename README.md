@@ -13,7 +13,7 @@
 | 0:00 \- 0:45 | 🧭 The Roadmap | Introduction to the course, the "Flipped Classroom" philosophy, and your AI tutor (NotebookLM) | 
 | 0:45 \- 1:45 | 🧊 Icebreaker | Self-intro + 1 interesting fact about you! |
 | 1:45 \- 2:15 | 🛠️ Workshop | How to use NotebookLM & "Prompt Engineering 101" |
-| 2:15 \- 3:00 | 🤖 Activity | Learning Community: Discord | 
+| 2:15 \- 3:00 | 🤖 Activity | Learning Community: Discord / Software installation trouble-shooting | 
 
 
 ## **🎯 Learning Outcomes**
