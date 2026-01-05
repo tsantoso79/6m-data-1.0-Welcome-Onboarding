@@ -1,4 +1,4 @@
-# Lesson
+# Lesson - this lesson will be delivered in coaching session 1
 
 ## Brief
 
