@@ -1,5 +1,7 @@
 # **🗺️ The Road to the "1 Million Row" Dashboard**
 
+![1 Million Row](./assets/capstone.png)
+
 ## **How Every Class Contributes to the Final Goal**
 
 **The Final Destination:**
