@@ -1,4 +1,4 @@
-# **🗺️ The Road to the "1 Million Row" Dashboard**
+# **🗺️ The Road to the "1 Million+ Row" Dashboard**
 
 ![1 Million Row](./assets/capstone.png)
 
@@ -63,7 +63,7 @@
 ```mermaid
 
 graph TD
-    Goal[🏆 Final Goal: 1 Million Row Dashboard]
+    Goal[🏆 Final Goal: 1 Million+ Row Dashboard]
 
     subgraph Foundation [Phase 1: Foundation]
     C1[Onboarding: Get Your AI Buddy and Community Ready] --> C2[DS Intro: Lifecycle]
