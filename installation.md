@@ -107,7 +107,7 @@ git config --global http.postBuffer 524288000
 
 If you encounter error in syncing your git repository please use the command above.
 
-### Connecting VScode with Github
+### Connecting VScode with Github (Apply to Mac and Windows User)
 To connect Github with VSCode, you just need to click `Clone Git Repository` at the `Welcome` page. To access the welcome page, on the menu bar click `Help` > `Welcome`
 
 Please checkout the video belong which applies for both Mac and Windows user.
@@ -153,6 +153,9 @@ Please refer to [Reference - Conda or Miniconda](reference.md#conda-or-miniconda
 We will be using DBGate SQL client throughout this course to connect to databases and write SQL code. The free version is called DBGate Community. 
 
 Download and install DbGate Community version [here](https://www.dbgate.io/download-community/).
+
+![alt text](assets/dbGate.png)
+
 
 Alternatively, you can use another Duckdb browser called Dbeaver, you can download and install DBeaver Community [here](https://dbeaver.io/download/)
 

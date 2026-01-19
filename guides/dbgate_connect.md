@@ -3,11 +3,20 @@
 To open a DuckDB file in DbGate:
 - Launch DbGate: Open the DbGate application on your desktop.
 - Navigate to Connections: In the DbGate interface, locate the section for managing database connections.
-- Add a New Connection: Select the option to add a new connection or database.
+
+![alt text](../assets/dbgate_connect/dbg1.PNG)
+
+- Add a New Connection: Select the option to add a new connection.
+
+![alt text](../assets/dbgate_connect/dbg2.PNG)
+
 - Choose DuckDB: From the list of available database types, select "DuckDB."
 - Specify File Path: Provide the full path to your .duckdb file. This can be an existing file or a path where a new DuckDB database will be created if it doesn't exist.
 - Test Connection: You can test your connection.
 - Connect: Initiate the connection to the DuckDB database file.
+
+![alt text](../assets/dbgate_connect/dbg3.PNG)
+
 - Once connected, you can perform various operations within DbGate, including:
         - Browsing and editing table data.
         - Executing SQL queries in the query console.

@@ -2,17 +2,28 @@
 
 Please note that we will be installing Miniconda in WSL. **Launch `WSL` or `Ubuntu` first.**
 
+Step 0: Identify which CPU you are using.
+
+- Majority of you will be using Intel CPU, however, we notice some Windows laptop uses ARM. 
+
 Step 1: Using the following code to download the software:
 
 ```bash
+# Intel CPU
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+# Windows Laptop that uses ARM CPU
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-aarch64.sh
 ```
 
 ![assets/wsl_miniconda/miniconda1.png](../assets/wsl_miniconda/miniconda1.png)
 
+
 Step 2: Using the following code to install the software:
 ```bash
+# Intel CPU
 bash ~/Miniconda3-latest-Linux-x86_64.sh
+# ARM CPU
+bash ~/Miniconda3-latest-Linux-aarch64.sh
 ```
 
 ![assets/wsl_miniconda/miniconda2.png](../assets/wsl_miniconda/miniconda2.png)
