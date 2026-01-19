@@ -62,6 +62,13 @@ Go to the `Extensions` tab, search for the following extensions in the marketpla
 - Colab
 - WSL - (*For Windows/WSL user only:* Auto-install when connect to WSL)
 
+### Setting Auto-Save
+
+This is optional but we find that a lot of code running issue happen because learner forget to save their setting. 
+
+In `VSCode`, please checked `Autosave`. It will help in future troubleshooting. 
+
+![alt text](assets/autosave_vscode.png)
 
 ### Additional Learning Resource
 Please refer to [Reference - VSCode](reference.md#vscode) for more learning resource on VSCode.
@@ -155,7 +162,6 @@ We will be using DBGate SQL client throughout this course to connect to database
 Download and install DbGate Community version [here](https://www.dbgate.io/download-community/).
 
 ![alt text](assets/dbGate.png)
-
 
 Alternatively, you can use another Duckdb browser called Dbeaver, you can download and install DBeaver Community [here](https://dbeaver.io/download/)
 
